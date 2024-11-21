@@ -1,4 +1,4 @@
-##LoginPageAndroidStudio##
+**LoginPageAndroidStudio**
 
 A simple Android application demonstrating a user login page. This project is built using Android Studio and includes modern design principles and basic authentication logic.
 
@@ -42,5 +42,7 @@ Material Design: UI/UX design.
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 **Contact**
+
 Email: muhammadfarhan8743@gmail.com
+
 GitHub: Farhan0511
